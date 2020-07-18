@@ -1,6 +1,6 @@
 # Hi there, I'm PatEvs 👋
 
-> I am a software developer from New Zealand :kiwi:
+> I am a software developer from New Zealand 🥝
 
 ```md
                              \\\\\\\
