@@ -2,6 +2,8 @@
 
 > I am a software developer from New Zealand 🥝
 
+[![GitHub PatEvs](https://img.shields.io/github/followers/patevs?label=follow&style=social)](https://github.com/patevs)
+
 ```md
                              \\\\\\\
                             \\\\\\\\\\\\
