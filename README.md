@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=patevs&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=patevs&column=8"/>
 
 ---
 
@@ -14,14 +14,14 @@ Loading... something awesome, check back soon.
 
 ---
 
+<!--
+https://github.com/anuraghazra/github-readme-stats
+-->
+
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=patevs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patevs&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
-
----
-
-![PatEvs Github Stats](https://github-readme-stats.vercel.app/api?username=patevs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
 
