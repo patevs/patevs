@@ -4,11 +4,20 @@
 
 [![GitHub PatEvs](https://img.shields.io/github/followers/patevs?label=follow&style=social)](https://github.com/patevs)
 
+---
+
 <img src="https://github-profile-trophy.vercel.app/?username=patevs&column=7"/>
 
 ---
 
 Loading... something awesome, check back soon.
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=patevs&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patevs&layout=compact" />
+</div>
 
 ---
 
