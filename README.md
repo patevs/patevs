@@ -4,6 +4,8 @@
 
 [![GitHub PatEvs](https://img.shields.io/github/followers/patevs?label=follow&style=social)](https://github.com/patevs)
 
+<img src="https://github-profile-trophy.vercel.app/?username=patevs&column=7"/>
+
 ---
 
 Loading... something awesome, check back soon.
