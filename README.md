@@ -6,11 +6,7 @@
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=patevs&column=8"/>
-
----
-
-Loading... something awesome, check back soon.
+<img src="https://github-profile-trophy.vercel.app/?username=patevs&column=7"/>
 
 ---
 
