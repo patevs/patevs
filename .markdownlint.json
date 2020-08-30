@@ -1,4 +1,10 @@
 {
     "default": true,
-    "no-inline-html": { "allowed_elements": ["img"] }
+    "line-length": false,
+    "no-inline-html": { 
+        "allowed_elements": [
+            "div", 
+            "img"
+        ] 
+    }
 }
