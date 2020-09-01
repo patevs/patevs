@@ -6,9 +6,11 @@
 
 ---
 
-<div style="margin: auto">
-  <img src="https://github-profile-trophy.vercel.app/?username=patevs&column=7"/>
+<div>
+  <img style="display: block; margin: auto" src="https://github-profile-trophy.vercel.app/?username=patevs&column=7"/>
 </div>
+
+<img style="display: block; margin: auto" src="https://github-profile-trophy.vercel.app/?username=patevs&column=7"/>
 
 ---
 
