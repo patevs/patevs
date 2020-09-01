@@ -6,8 +6,8 @@
 
 ---
 
-<div>
-  <img style="text-align: center" src="https://github-profile-trophy.vercel.app/?username=patevs&column=7"/>
+<div style="text-align: center" >
+  <img src="https://github-profile-trophy.vercel.app/?username=patevs&column=7"/>
 </div>
 
 ---
