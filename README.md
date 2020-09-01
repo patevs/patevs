@@ -6,7 +6,7 @@
 
 ---
 
-<div style="margin: 0 auto">
+<div style="text-align: center">
   <img src="https://github-profile-trophy.vercel.app/?username=patevs&column=7"/>
 </div>
 
