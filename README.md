@@ -6,11 +6,15 @@
 
 ---
 
-<div style="text-align: center">
+<div style="align: center">
   <img src="https://github-profile-trophy.vercel.app/?username=patevs&column=7"/>
 </div>
 
-<img style="display: block; margin: 0 auto" src="https://github-profile-trophy.vercel.app/?username=patevs&column=7"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=patevs&column=7"/>
+
+<p style="align: center">
+  <img src="https://github-profile-trophy.vercel.app/?username=patevs&column=7"/>
+</p>
 
 ---
 
