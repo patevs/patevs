@@ -10,6 +10,12 @@
 
 ---
 
+Loading... something awesome, check back soon.
+
+<img src="./dino.gif" width=100% >
+
+---
+
 <!--
 https://github.com/anuraghazra/github-readme-stats
 -->
