@@ -12,7 +12,7 @@
 
 Loading... something awesome, check back soon.
 
-<img src="./dino.gif" width=100% >
+<img src="https://github.com/patevs/patevs/raw/master/dino.gif" width=100% >
 
 ---
 
