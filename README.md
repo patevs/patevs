@@ -58,7 +58,7 @@ https://github.com/lowlighter/metrics
 <!-- ![Metrics](https://metrics.lecoq.io/patevs) -->
 
 <!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/patevs/patevs/blob/master/github-metrics.svg)
+<!-- ![Metrics](https://github.com/patevs/patevs/blob/master/github-metrics.svg) -->
 <!-- If you're using the "columns" display mode -->
 <!--
 <img src="https://github.com/patevs/patevs/blob/master/github-metrics.svg" alt="Metrics" width="100%">
