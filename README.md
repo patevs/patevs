@@ -48,6 +48,22 @@ https://github.com/anuraghazra/github-readme-stats
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patevs&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
 
+---
+
+<!--
+https://github.com/lowlighter/metrics
+-->
+
+<!-- Metrics Preview -->
+<!-- ![Metrics](https://metrics.lecoq.io/patevs) -->
+
+<!-- If you're using "master" as default branch -->
+![Metrics](https://github.com/patevs/patevs/blob/master/github-metrics.svg)
+<!-- If you're using the "columns" display mode -->
+<!--
+<img src="https://github.com/patevs/patevs/blob/master/github-metrics.svg" alt="Metrics" width="100%">
+-->
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
